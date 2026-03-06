@@ -1,1 +1,1 @@
-# DeepLearningNotes
+# Notes
